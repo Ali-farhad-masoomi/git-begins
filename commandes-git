@@ -3,4 +3,4 @@ git clone url du repo
 
 git add Fichier
 git commit -m message 
-git puch
+git push
